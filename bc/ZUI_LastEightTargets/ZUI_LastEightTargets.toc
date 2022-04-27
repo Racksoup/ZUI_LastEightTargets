@@ -1,0 +1,12 @@
+## Interface: 20504
+## Title: ZUI Last Eight Targets
+## Author: ZUI
+## DefaultState: disabled
+## SavedVariables: ZUI_LastEightTargetsDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+
+enUS.lua
+core.lua
